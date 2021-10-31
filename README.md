@@ -19,5 +19,5 @@ This project involves creating a portfolio web page using the HTML and CSS eleme
 
 ### Link to the deployed application
 
-Click [here](https://sghosh17.github.io/01-HTML-Git-CSS-Homework/) to access the application.
+Click [here](https://sghosh17.github.io/02-Advanced-CSS-Homework/) to access the application.
 
